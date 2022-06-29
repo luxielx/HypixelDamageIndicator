@@ -1,0 +1,10 @@
+name: Immortal-DamageIndicator
+main: luxielx.Main
+version: 6.9
+author: Luxiel
+api-version: 1.16
+depend: [HolographicDisplays, ProtocolLib, PlaceholderAPI]
+commands:
+    di:
+        description: Such Wow , much Wow
+

@@ -1,0 +1,13 @@
+attack: '&c %damage% ✧'
+critattack: '&a %damage% ✧'
+sweepattack: '&1 %damage% ✧'
+magic: '&2 %damage% ✧'
+fire: '&4 %damage% ✧'
+poison: '&3 %damage% ✧'
+projectile: '&4 %damage% ✧'
+thorns: '&5 %damage% ✧'
+fadedouttime: 2
+enable: '&4You have enable damage Indicator'
+disable: '&4You have disable damage Indicator'
+enableplaceholder: '&aEnable'
+disableplaceholder: '&cDisable'
